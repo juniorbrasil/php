@@ -1,3 +1,3 @@
 <?php
 
-	echo 'Learning... eternale Learning... Hello World!';
+	echo 'Learning... eternaly Learning... Hello World!';
